@@ -1,0 +1,16 @@
+D:\Programing\.NET\RPGExemplo\bin\Debug\net5.0\RPGExemplo.exe
+D:\Programing\.NET\RPGExemplo\bin\Debug\net5.0\RPGExemplo.deps.json
+D:\Programing\.NET\RPGExemplo\bin\Debug\net5.0\RPGExemplo.runtimeconfig.json
+D:\Programing\.NET\RPGExemplo\bin\Debug\net5.0\RPGExemplo.runtimeconfig.dev.json
+D:\Programing\.NET\RPGExemplo\bin\Debug\net5.0\RPGExemplo.dll
+D:\Programing\.NET\RPGExemplo\bin\Debug\net5.0\RPGExemplo.pdb
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.csproj.AssemblyReference.cache
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.AssemblyInfoInputs.cache
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.AssemblyInfo.cs
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.csproj.CoreCompileInputs.cache
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.dll
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\refint\RPGExemplo.dll
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.pdb
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\RPGExemplo.genruntimeconfig.cache
+D:\Programing\.NET\RPGExemplo\obj\Debug\net5.0\ref\RPGExemplo.dll
